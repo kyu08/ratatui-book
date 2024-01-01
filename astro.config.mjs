@@ -39,7 +39,7 @@ export default defineConfig({
         light: "./src/assets/logo-light.png",
         replacesTitle: true,
       },
-      favicon: "./src/assets/logo.png",
+      favicon: "./src/assets/hero-dark.png",
       head: [
         {
           tag: "meta",
